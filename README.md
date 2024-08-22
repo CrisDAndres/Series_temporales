@@ -17,18 +17,23 @@ El proyecto consiste en los siguientes archivos:
 ## Tecnologías utilizadas 🛠️
 
 - Lenguaje de programación:
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - Bibliotecas y Frameworks para Modelado:
+
 ![Prophet](https://img.shields.io/badge/Prophet-563D7C?style=for-the-badge&logo=prophet&logoColor=white)  
 ![ARIMA](https://img.shields.io/badge/ARIMA-007D3C?style=for-the-badge&logo=python&logoColor=white)  
 ![statsmodels](https://img.shields.io/badge/statsmodels-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - Manipulación y análisis de datos:
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 - Visualización de datos:
+
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=python&logoColor=white)  
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 - Entornos de desarrollo:
+
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
