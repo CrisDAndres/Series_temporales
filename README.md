@@ -8,7 +8,7 @@
   <i>Fuente de la imagen: https://pixabay.com/</i>
 </p>
 
-## Descripción General
+## Descripción General 📋
 
 Este proyecto se centra en la predicción del precio de los aguacates utilizando técnicas avanzadas de predicción de series temporales. Para ello, se emplean dos enfoques principales: ARIMA y Prophet. **ARIMA** es un modelo estadístico ampliamente utilizado para el análisis de series temporales, que captura las dependencias autoregresivas e integradas en los datos. Por otro lado, **Prophet**, desarrollado por Facebook, es una poderosa herramienta que permite ajustar tendencias no lineales y estacionalidades con mayor flexibilidad.
 
